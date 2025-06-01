@@ -7,7 +7,7 @@ namespace InventoryManagement.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    //Checking CI/CD Setup
+    //Checking CI/CD Setup edit
     public class ProductController : ControllerBase
     {
         private readonly DatabaseContext _databaseContext;
